@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Domestic shifting"
+    },
+
+    
+    {
+        "id": 2,
+        "name": "Transportation"
+      },
+      
+      
+      
+      {
+        "id": 3,
+        "name": "Local shifting"
+      },
+     
+     
+      {
+        "id": 4,
+        "name": "Car Carrier"
+      },
+     
+     
+      {
+        "id": 5,
+        "name": "Office relocation"
+      },
+      
+      {
+        "id": 6,
+        "name": "Warehouse service"
+      }
+      
+      
+     
+
+
+]

@@ -1,0 +1,45 @@
+{"item" :[
+    {
+        "id": 1,
+        "category_id": 1,
+        "img":"image url",
+        "info":" Relocation Packers offers unparalleled domestic relocation services to suit your schedule and budget. No matter how busy your schedule is, our customizable domestic relocation solutions will give you the freedom to effortlessly manage your priorities before and after you move."
+    },
+
+    {
+        "id": 2,
+        "category_id": 2,
+        "img":"image url",
+        "info":"Relocation Packers, with the team of highly qualified and experienced professionals, offers you the best packing and moving services."
+    },
+
+    {
+        "id": 3,
+        "category_id": 3,
+        "img":"image url",
+        "info":"Shifting to a new place can be a daunting task, whether you relocate within the same city or just across the street. The burden of this task can be reduced with a great margin if you have the help and support of a reliable relocation company. Interem, with the team of highly qualified and experienced professionals, offers you the best packing and moving services."
+    },
+
+    {
+        "id": 4,
+        "category_id": 4,
+        "img":"image url",
+        "info":"Our passion for relocating your automobile matches your passion for your ride. Whether it’s a convertible or a hatchback, The Eklavya Relocation Packers offers tailor made solutions for all automobile relocation needs."
+    },
+
+    {
+        "id": 5,
+        "category_id": 5,
+        "img":"image url",
+        "info":"We have the expertise and resources for implementing effective business relocation solutions and move your office without disruption. We ensure that the downtime is minimum and your business remains uninterrupted."
+    },
+
+    {
+        "id": 6,
+        "category_id": 6,
+        "img":"image url",
+        "info":"Our state of art warehouses ensure updated warehouse management system and have changed the definition of warehouse storage. Our warehouse solutions comprise warehousing, distribution (multimode), third party logistics, temperature control, storage and response management."
+    }
+]
+
+}
